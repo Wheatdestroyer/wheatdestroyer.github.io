@@ -1,3 +1,13 @@
 body {
     background-color: darkcyan;
-  }
+}
+
+.row > div {
+    padding: 20px;
+    background-color: teal;
+    border: 2px solid black;
+}
+
+h1 {
+    color:blueviolet;
+}
