@@ -4,7 +4,7 @@ body {
 
 .row > div {
     padding: 20px;
-    background-color: teal;
+    background: rgb(117, 124, 124, 0.3);
     border: 2px solid black;
 }
 
